@@ -1,4 +1,4 @@
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=b3rz3rk3d&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=b3rz3rk3d&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b3rz3rk3d&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=b3rz3rk3d&redirect=true)
 <!--
 **abhisheksingh-7/abhisheksingh-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
